@@ -15,7 +15,7 @@ Even though your website isn't very exciting yet, we're going to put it online n
 Go to the following URL:
 
 ```
-https://<username>.github.io/maplibre-workshop-foss4gnl-2025/
+https://<username>.github.io/makers-gonna-make-dundee/
 ```
 
 You should now see the map from part 1.
